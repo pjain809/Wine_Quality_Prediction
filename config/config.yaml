@@ -1,0 +1,6 @@
+
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/pjain809/E2E-ML-Project-with-MLFlow/raw/main/raw/master/winequality-data.zip
