@@ -1,4 +1,4 @@
-FROM python:3.11-slim-bookworm
+FROM python:3.8-slim-buster
 
 RUN apt update -y && apt install awscii -y
 WORKDIR /app
