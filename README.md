@@ -1,5 +1,8 @@
 # End-to-end-Machine-Learning-Project-with-MLflow
 
+## Description
+
+This application leverages ElasticNet to predict wine quality using key input parameters: Citric Acid, Alcohol, Density, etc. The user-friendly interface enables seamless input and provides accurate quality predictions, empowering wine enthusiasts and professionals with a valuable tool for informed decision-making and product evaluation
 
 ## Workflows
 
